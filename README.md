@@ -52,13 +52,16 @@
 
 ---
 
-### 📈 GitHub Activity
+<details>
+<summary>📈 GitHub Stats (click to expand)</summary>
 
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianka2112&layout=compact&theme=prussian&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bianka2112&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
+</details>
 
 ### ⚡ Fun Fact
 
