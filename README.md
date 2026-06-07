@@ -66,7 +66,6 @@
 ### ⚡ Fun Fact
 
 I’m powered by sunlight, coffee, and the ocean 🌞☕🌊  
-Building things that feel like *art + code had a baby* 💻🎨
 
 ---
 
