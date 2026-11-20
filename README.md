@@ -1,20 +1,20 @@
 
-<h3 align="center">🔤 What I Do 🏝️ </h3>
+<h3 align="center"> ☕️🏝️ </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3600&pause=1000&color=F78E8E&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Creative+Dev+%2B+Visual+Thinker;Learning%2C+Building%2C+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3600&pause=1000&color=F78E8E&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Wanderlust-er+-ing;Learning%2C+Building%2C+Creating" alt="Typing SVG" />
 </p>
 
 <p align="left" style="max-width: 600px; margin: 0 auto; text-align: center;">
-  I love to learn! Even after 15 years of building up my own business — I know, for sure, that we never know it all.  
+  I love to learn! Even after 15 years of running my own business — The one thing I know for sure, is that we never know it all. 😅
   <br /><br />
-  This endless curiosity brought me over to the dark side (literally) as I spend my nights coding and exploring the vast and wild world of web/app development.  
+  My insatiable curiosity has brought me over to the dark side (literally), as I spend my nights exploring the vast wilderness of backend development.  
   <br /><br />
-  No matter one person's level, there's always something new coming out — which means we all get to collectively take part in learning, teaching, and building community while we build products!
+  It fascinates me how, no matter one person's seniority, there's always something new brewing — which means we all get to collectively take part in learning, teaching, and building community! A process that's a constant give and take, where there is always space to grow.
   <br /><br />
   I can't think of a better place to immerse myself into and am excited I finally got started.  
   <br /><br />
-  So have a look around, drop me a message, and let’s chat about code, new ideas, or... why does Safari hate favicons? 🤔
+  Drop me a message, and let’s chat... 💙
 </p>
 
 ---
@@ -52,37 +52,12 @@
 
 ---
 
-<details>
-<summary>📈 GitHub Stats (click to expand)</summary>
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianka2112&layout=compact&theme=prussian&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bianka2112&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-
-</details>
-
 ### ⚡ Fun Fact
 
 I’m powered by sunlight, coffee, and the ocean 🌞☕🌊  
-
----
-
 
 <!--
 **Bianka2112/Bianka2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Bianka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bianka2112&show_icons=true&theme=prussian&hide_border=true)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
